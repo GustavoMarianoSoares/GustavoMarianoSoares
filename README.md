@@ -6,7 +6,7 @@
 
 ![Mariano GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoMarianoSoares&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMarianoSoares&layout=compact)](https://github.com/GustavoMarianoSoares/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMarianoSoares&layout=compact)](https://github.com/GustavoMarianoSoares/github-readme-stats) 
 
 ## Tecnologias do meu dia a dia
 
