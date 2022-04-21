@@ -23,8 +23,8 @@
 </p>
 
 #### FrameWorks
-<p align="left"><a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="60" height="60"/> </a><a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="sequelize" width="60" height="60"/> </a>
-<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg" alt="nodemon" width="60" height="60"/> </a>
+<p align="left"><a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" /> </a><a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="sequelize" /> </a>
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg" alt="nodemon"/> </a>
 </p>
 
 #### DataBases
