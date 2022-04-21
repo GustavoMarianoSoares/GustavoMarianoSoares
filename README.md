@@ -14,7 +14,7 @@
 
 
 #### Linguagens e Ferramentas em aprendizagem 
-<p align="left"> <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.w3schools.com/git/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="40" height="40"/>
+<p align="left"> <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a><a href="https://www.w3schools.com/git/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="40" height="40"/>
  <a href="https://www.w3schools.com/php/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="40" height="40"/> </a></a> </p>
  
 
