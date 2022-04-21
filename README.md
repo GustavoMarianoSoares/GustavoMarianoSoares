@@ -14,7 +14,7 @@
 
 
 #### Linguagens e Ferramentas em aprendizagem 
-<p align="left"> <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a><a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/> </a><a href="https://www.w3schools.com/git/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="40" height="40"/>
+<p align="left"> <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="40" height="40"/> </a><a href="https://pt-br.reactjs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a><a href="https://nodejs.org/en/docs/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/> </a><a href="https://www.w3schools.com/git/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="40" height="40"/>
  <a href="https://www.w3schools.com/php/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="40" height="40"/> </a></a> </p>
  
 
@@ -23,12 +23,12 @@
 </p>
 
 #### FrameWorks
-<p align="left"><a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" /> </a><a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="sequelize" /> </a>
-<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg" alt="nodemon"/> </a>
+<p align="left"><a href="https://expressjs.com/pt-br/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" /> </a><a href="https://sequelize.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="sequelize" /> </a>
+<a href="https://nodemon.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg" alt="nodemon"/> </a>
 </p>
 
 #### DataBases
-<p align="left"><a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
+<p align="left"><a href="https://www.mongodb.com/docs/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
 
 
 
