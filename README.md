@@ -1,16 +1,36 @@
+#  Seja Bem vindo 👋
 
-### Olá eu sou o Gustavo Mariano 👋
+## 👨🏻‍💻Gustavo Mariano
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_marianogustavo/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavomariano232120/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-mendes-moura-1b11341a2/)](https://www.linkedin.com/in/breno-mendes-moura-1b11341a2/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bmoura.profissional@gmail.com)](mailto:bmoura.profissional@gmail.com)
 
-![Mariano GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoMarianoSoares&show_icons=true&theme=dracula)
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/3o7aCTQr3cdC1bXWi4/giphy.gif"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMarianoSoares&layout=compact)](https://github.com/GustavoMarianoSoares/github-readme-stats) 
+💻Me chamo Mariano, tenho 18 anos, no momento estou me aprofundando em estudar tecnologias focadas em Javascript, como React.JS, React Native, Node.JS. Atualmente estudando **TADS** na universidade UNI9 e formado em **DES** na ETEC.
 
-## Tecnologias do meu dia a dia
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![RN](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+
+
+
+#### Linguagens e Ferramentas em aprendizagem 
+<p align="left">    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank">  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
  
-Estudante apaixonado por tecnologia e sempre buscando aprender o maximo possivel.
+
+#### DevOps
+<p align="left"><a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>     <a href="https://trello.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/> </a> </p>
+ <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenomendesmoura&show_icons=true&locale=en&layout=compact" alt="brenomendesmoura" /></p>
+
+#### FrameWorks
+<p align="left"><a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></p>
+
+#### DataBases
+<p align="left"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
+
+
+
+
+<br>
+
+
+-📡 Focado no desenvolvimento e planejamento de novas soluções de software utilizando linguagens baseadas em JavaScript. Além disso, estou em constante aprendizado nas áreas DevOps, como Heroku, AWS e Digital Ocean. Inglês e Português são idiomas frequentemente utilizados no meu dia a dia!
