@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-mendes-moura-1b11341a2/)](https://https://www.linkedin.com/in/gustavomariano232120/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bmoura.profissional@gmail.com)](mailto:gustavomarianosoares@gmail.com)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/3o7aCTQr3cdC1bXWi4/giphy.gif"/>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif"/>
 
 💻Me chamo Mariano, tenho 18 anos, no momento estou me aprofundando em estudar tecnologias focadas em Javascript, como React.JS, React Native, Node.JS. Atualmente estudando **TADS** na universidade UNI9 e formado em **DES** na ETEC.
 
